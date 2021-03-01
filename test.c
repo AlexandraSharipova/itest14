@@ -2,6 +2,6 @@
 
 int main (void)
 {
-  puts ("Hello, World!");
+  int x,y
   return 0;
 }
